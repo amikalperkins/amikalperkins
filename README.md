@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amikalperkins
 - 👀 I’m interested in making things move and space.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me a.mikalperkins@gmail.com
 
 <!---
