@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amikalperkins
 - 👀 I’m interested in making things move and space.
 - 🌱 I’m currently learning Java.
-- 📫 How to reach me a.mikalperkins@gmail.com
+- 📫 How to reach me perkina6@wwu.edu
 
 <!---
 amikalperkins/amikalperkins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
