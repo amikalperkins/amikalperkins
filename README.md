@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amikalperkins
 - 👀 I’m interested in making things move and space.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me perkina6@wwu.edu
 
 <!---
